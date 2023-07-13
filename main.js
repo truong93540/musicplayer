@@ -3,7 +3,7 @@ const listSong = [
         name: 'VIETNAM - My Home',
         author: 'Masew',
         img: 'https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/cover/b/3/9/d/b39d557a90d6e08307de893ca47b1797.jpg',
-        song: './audio/vietnammyhome'
+        song: './audio/vietnammyhome,mp3'
     },
     {
         name: 'Thị Mầu',
